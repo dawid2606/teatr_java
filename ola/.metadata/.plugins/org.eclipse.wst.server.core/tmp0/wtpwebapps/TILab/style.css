@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+
+div.container{
+	width:90%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+div.header{
+	min-width:600px;
+	height:150px;
+	background-color: #D9D919;
+	margin-bottom: 10px;
+	text-align: center;	
+	vertical-align: middle;
+}
+div.content{
+	background-color: #B5A642;
+	margin-right: 160px;	
+	padding: 10px;
+	
+}
+div.menu{
+	width: 150px;
+	float: right;
+		style-type: none;
+}
+div.news{
+	
+	float: right ;
+	background-color: #A67D3D;
+	margin-top:5px;
+	margin-bottom: 10px;	
+	padding: 10px;
+}
+
+a{
+	color: #4E2F2F;	
+}
+div.footer{
+	height: 25px;
+	background-color: #5F9F9F;
+	clear: both;
+	margin-top: 10px;
+	text-align: center;
+}
+ul{
+	list-style: none;
+	padding: 0;
+    margin: 0;
+	
+}
+li{
+	background-color: #8C7853;
+	text-align: center;
+	margin-bottom: 5px;	
+	height: 20px;
+	color: #545454;
+
+}
+li:hover {
+	background-color: #FFCC99;
+	text-align: center;
+	pointer: cursor;
+	height: 20px;
+	color: #545454;
+
+}
